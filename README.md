@@ -60,7 +60,7 @@ contributions are welcome! please fork the repository, make your changes, and su
 
 ## License
 
-this project is licensed under the mit license. see the [license](LICENSE) file for details.
+This project is licensed under the mit license. see the [license](LICENSE) file for details.
 
 ## Contact
 

@@ -56,7 +56,7 @@ please remember to save your password securely!
 
 ## Contributing
 
-contributions are welcome! please fork the repository, make your changes, and submit a pull request.
+contributions are welcome! please fork the repository , make your changes, and submit a pull request.
 
 ## License
 
